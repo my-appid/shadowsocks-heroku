@@ -8,9 +8,9 @@
   },
   "scripts": {
     "start": "node server.js -b 0.0.0.0"
-  }
-  "dependencies":{
-  "laravel-elixir": "3.4.2",
+  },
+  "dependencies": {
+    "laravel-elixir": "3.4.2",
   }
 }
 
